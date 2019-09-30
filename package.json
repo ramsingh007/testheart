@@ -1,0 +1,19 @@
+{
+  "name": "heartbeat-codova-plugin",
+  "version": "1.0.0",
+  "description": "A plugin that helps capture the heart rate using the cellphone's camera and flashlight",
+  "main": "www/heartbeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Litekey/heartbeat-cordova-plugin.git"
+  },
+  "author": "LiteKey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Litekey/heartbeat-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/Litekey/heartbeat-cordova-plugin#readme"
+}
